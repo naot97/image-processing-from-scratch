@@ -6,3 +6,4 @@ This repository is about my coding Image Processing algorithms from scratch by N
 Repository has organize to sub-folders. Each sub-folder is about one topic of Image Processing algorithms and consists of Jupyter python files. Each file has implemented IP algorithm and shows input, output images of algorithm.
 
 ## Table of contents
+* [Image Thresholding](https://github.com/naot97/image-processing-from-scratch/blob/master/threshold.ipynb)
